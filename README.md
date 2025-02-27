@@ -2,7 +2,7 @@
 
 Description: To learn the basics of How to do A/B Testing 
 
-Datasets are found on youtube (CREDIT TO: Alex the Analyst): https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys
+Datasets are found on youtube (CREDIT TO:F FreeCodeCamp): [https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys](https://youtu.be/FTpmwX94_Yo?si=j64-jlPtn7MiqfzQ)
 
 In the folders, there are the following :
 
