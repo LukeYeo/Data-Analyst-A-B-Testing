@@ -14,5 +14,5 @@ This project/guide teaches me the basic A/B Testing:
 2) The mindset , clearning and knowing which business formular is needed for A/B Testing
 3) The knowledge and math needed as a statictian when seeing the result of the graph , the initial hypothesis , results , ect 
 
- For this case (Phone color difference):
+ For this case (Phone color, words and other changes difference):
  ![image](https://github.com/user-attachments/assets/30f6cf14-bba5-468e-aa37-ada395810872)
