@@ -1,4 +1,4 @@
-# Data-Analyst-A-B-Testing
+# Data-Analyst-A/B-Testing
 
 Description: To learn the basics of How to do A/B Testing 
 
