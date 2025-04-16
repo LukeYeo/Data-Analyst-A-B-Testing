@@ -150,8 +150,6 @@ Statistical significance ≠ real-world usefulness. After rejecting H₀, we als
 
 **Yeo Chee En Luke**  
 Statistician & Computer Scientist  
-📧 [Optional: insert email or LinkedIn]
-
 ---
 
 ## 🎓 Acknowledgements
